@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/test/</link>
+    <description>Recent content from My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>xxx@example.com (Wargon)</managingEditor>
+    <webMaster>xxx@example.com (Wargon)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 14 Jul 2025 22:48:31 +0800</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>第2个文章</title>
+      <link>http://localhost:1313/post/second-article/</link>
+      <pubDate>Mon, 14 Jul 2025 22:48:31 &#43;0800</pubDate>
+      <author>xxx@example.com (Wargon)</author>
+      <guid>http://localhost:1313/post/second-article/</guid>
+      <description>
+        <![CDATA[<h1>第2个文章</h1><p>作者：Wargon（xxx@example.com）</p>
+        
+          <p>还是不知道说什么好。</p>
+        
+        <hr><p>本文2025-07-14首发于<a href='http://localhost:1313/'>My New Hugo Site</a>，最后修改于2025-07-14</p>]]>
+      </description>
+      
+        <category>test</category>
+      
+    </item>
+    
+  </channel>
+</rss>
