@@ -18,7 +18,7 @@ menu:
     url: "friend"
     icon:
 
-mainSections: ["post"]
+mainSections: ["post", "post_program", "post_system", "post_web", "post_essay"]
 # 年，月，日及时间的格式化样式
 # Format style for year,month,date & time
 yearFormat: "2006"
@@ -314,7 +314,8 @@ valine:
 # https://waline.js.org/
 waline:
   enable: true
-  serverURL: https://my-waline-787jdktma-genionests-projects.vercel.app/
+  # serverURL: https://my-waline-787jdktma-genionests-projects.vercel.app/
+  serverURL: https://my-waline-two-kappa.vercel.app/
   # lang: zh-CN # deprecated, use html.lang instead
   locale: {} # https://waline.js.org/guide/features/i18n.html#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80
   emoji:

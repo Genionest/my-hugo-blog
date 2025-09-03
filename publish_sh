@@ -1,0 +1,5 @@
+rm -rf public
+hugo -d public
+rm -rf ../wargon_hugo_blog/public
+mv public ../wargon_hugo_blog/public
+echo "publish success!"
